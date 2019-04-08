@@ -1,4 +1,4 @@
- 
+# [CHECK HERE THE HOMEPAGE](https://github.com/clone95/Virgilio/tree/master)
 # Machine Learning Engineer 
 ## A complete ML study path, focused on TensorFlow and Scikit-Learn
 
@@ -11,7 +11,7 @@ It is necessary to avoid confusion when we learn something new, especially when 
 #### I organized the Path in 4 sections:
 
 #### Prerequisites
-- Python
+- Python  
 - Jupyter Notebook
 - The Math you need
 - The Machine Learning landscape
@@ -25,7 +25,7 @@ It is necessary to avoid confusion when we learn something new, especially when 
 - Support Vector Machines
 - Decision Trees
 - Ensemble Learning and Random Forest 
-- Unsupervised Learning --- **new**
+- Unsupervised Learning 
 - Wrapping up and looking forward
 
 #### Neural Networks with TensorFlow
