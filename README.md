@@ -12,6 +12,8 @@ Like I did with Dante, just some centuries ago, I'll be your mentor and referenc
 
 You can read me in **[简体中文](zh-CN/README.md)**.
 
+If you like Virgilio, [**fill this form**](https://docs.google.com/forms/d/e/1FAIpQLSeVJ9N7ae8Wr07tfSuHkP5i_5Fa-4Lp5V4fBevsinWyx6t17g/viewform?usp=send_form) and I'll contact you whenever a new feee guide comes out.
+
 ## How Did I Do This?
 
 I've tried to be concise to avoid information overhead.
@@ -61,21 +63,23 @@ My prices: I'm here for you, for free. If you find me helpful in some way, I jus
 # Specializations
 ## [Data Preprocessing](Specializations/HardSkills/DataPreprocessing.md)
 ## Data Collection  [Coming Soon - Next]
-## Data Visualization  [Coming Soon]
+## [Data Visualization](Specializations/HardSkills/DataVisualization.md)
 
 ## Effective Communication [Coming Soon]
-## [Impactful Presentations -- **NEW**](Specializations/SoftSkills/ImpactfulPresentations.md)
+## [Impactful Presentations](Specializations/SoftSkills/ImpactfulPresentations.md)
 ## Pragmatic Decision Making  [Coming Soon]
 
 # Tools
-### [Latex](Tools/Latex.md) 
+### [Latex](Tools/Latex.md)
 ### [Wolfram Alpha](Tools/WolframAlpha.md)
 ### [GeoGebra](Tools/GeoGebra.md)
 ### [RegeX](Tools/Regex.ipynb)
+### [MLDemos](Tools/MLDemos/README.md)
 ### A Lot More Coming Soon!
 
 # Topics
-### [Chatbots with DialogFlow and Flask](Topics/DialogFlow.md)
+### [Chatbots - Build a complex and useful Virtual Assistant with DialogFlow and Flask](Topics/DialogFlow.md)
+### [Introduction to Computer Vision using OpenCV and Python](Topics/Computer%20Vision/Introduction_to_Computer_Vision_using_OpenCV_and_Python.ipynb)
 
 # Research
 ### [Zotero](Research/Zotero.md)
@@ -100,3 +104,4 @@ Single topics will be split by field and they can touch real-world applications,
 The Tools section will host several guides about everything you need to know about a particular technology/language/methodology! They will give you a means of thoroughly exploring and mastering the tool at hand.
 
 # [SUBSCRIBE TO THIS FACEBOOK GROUP WHERE WE POST NEWS AND UPDATES](https://www.facebook.com/groups/mathfordatascience/)
+# If you like Virgilio, [**FILL THIS FORM**](https://docs.google.com/forms/d/e/1FAIpQLSeVJ9N7ae8Wr07tfSuHkP5i_5Fa-4Lp5V4fBevsinWyx6t17g/viewform?usp=send_form) and I'll contact you whenever a new free guide comes out.
